@@ -2,11 +2,9 @@
 
 ## Installation
 
-Extract the compressed files and place them in the following directory:
+Extract the compressed file and place them in the following directory:
 
----
 steam\steamapps\common\ENDER LILIES\EnderLilies\Content\Paks
----
 
 ## Preview
 
